@@ -1,7 +1,0 @@
-Paste this folder in the htdocs section of your xampp software.
-
-To link the form with Database follow the steps:
-1. Create a database in phpmyadmin named : infamous
-2. Create 2 table namely: 'emailaddress' and 'photography'
-3. The emailaddress table should contain 1 parameter namely : eid
-4. The photography table should contain 4 parameters namely : name , email , website , msg 
